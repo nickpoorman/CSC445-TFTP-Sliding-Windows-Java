@@ -1,4 +1,4 @@
-CSC445 TFTP Sliding Windows Java Implementation
+#CSC445 TFTP Sliding Windows Java Implementation#
 	By: Nicholas Poorman
 	Date: March 31, 2010
 	Class: CSC445 - Networking
@@ -29,7 +29,4 @@ Create a web page showing throughput across varying conditions (V4 vs V6; sequen
 Doug Lea
 =========================================================================================================================
 
-
-
-To use the program at the command line type:
 
