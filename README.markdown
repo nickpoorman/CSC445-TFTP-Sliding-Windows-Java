@@ -1,8 +1,8 @@
 #CSC445 TFTP Sliding Windows Java Implementation#
- By: Nicholas Poorman
- Date: March 31, 2010
- Class: CSC445 - Networking
- Project: 2 - http://gee.cs.oswego.edu/dl/csc445/a2.html
+ *By:* Nicholas Poorman
+ *Date:* March 31, 2010
+ *Class:* CSC445 - Networking
+ *Project:* 2 - http://gee.cs.oswego.edu/dl/csc445/a2.html
 
 ---
 
